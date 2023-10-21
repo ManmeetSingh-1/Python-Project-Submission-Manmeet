@@ -5,6 +5,7 @@ Author : Manmeet Singh
 Discover the cinematic world like never before with the Movie Suggestion App - your ultimate companion for exploring top-rated movies across various genres. This Python application combines the power of web scraping, user-friendly graphical interfaces, and data management to bring you an enriching movie recommendation experience.
 
 Features
+
 🍿 Genre-Based Recommendations: Input your preferred movie genre, whether it's an action-packed thriller, a heartwarming drama, or a side-splitting comedy. Our app takes your selection and scours IMDb to find the cream of the crop in that genre.
 
 🌟 Top 5 Picks: We don't just stop at one or two recommendations; we give you the top 5 highly-rated movies in your chosen genre, ensuring you have options galore.
