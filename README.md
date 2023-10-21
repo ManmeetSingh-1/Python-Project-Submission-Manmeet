@@ -1,6 +1,6 @@
 # Movie Suggestion App
 
-## Author : Manmeet Singh
+#### Author : Manmeet Singh
 
 Discover the cinematic world like never before with the Movie Suggestion App - your ultimate companion for exploring top-rated movies across various genres. This Python application combines the power of web scraping, user-friendly graphical interfaces, and data management to bring you an enriching movie recommendation experience.
 
