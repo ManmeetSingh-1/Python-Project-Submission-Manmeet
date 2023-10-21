@@ -50,6 +50,7 @@ class MovieSuggestionApp(QMainWindow):
 
 def scrape_and_store_movies(genre, result_label, suggested_list):
     url = f'https://www.imdb.com/search/title/?genres={genre}&sort=user_rating,desc'
+    print('Processing for URL -->', url)
     page = requests.get(url)
     if page.status_code != 200:
         result_label.setText("Error: Failed to fetch data from IMDb.")
